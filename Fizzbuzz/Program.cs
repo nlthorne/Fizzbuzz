@@ -32,7 +32,7 @@ namespace Fizzbuzz
                     Console.WriteLine(iNumber);
                 }
             }
-                    Console.Read();
+               Console.Read();
         }
     }
 }

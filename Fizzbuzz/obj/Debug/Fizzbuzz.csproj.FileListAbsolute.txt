@@ -4,3 +4,6 @@ c:\users\nltho\documents\visual studio 2015\Projects\Fizzbuzz\Fizzbuzz\bin\Debug
 c:\users\nltho\documents\visual studio 2015\Projects\Fizzbuzz\Fizzbuzz\bin\Debug\Fizzbuzz.pdb
 c:\users\nltho\documents\visual studio 2015\Projects\Fizzbuzz\Fizzbuzz\obj\Debug\Fizzbuzz.exe
 c:\users\nltho\documents\visual studio 2015\Projects\Fizzbuzz\Fizzbuzz\obj\Debug\Fizzbuzz.pdb
+C:\Users\nltho\Documents\GitHub\Fizzbuzz\Fizzbuzz\bin\Debug\Fizzbuzz.exe.config
+C:\Users\nltho\Documents\GitHub\Fizzbuzz\Fizzbuzz\obj\Debug\Fizzbuzz.exe
+C:\Users\nltho\Documents\GitHub\Fizzbuzz\Fizzbuzz\obj\Debug\Fizzbuzz.pdb
